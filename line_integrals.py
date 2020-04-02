@@ -7,3 +7,6 @@ def line_integral(field_equation, path):
 
 def curl(differential_del, field):
     pass
+
+def divergence(field):
+    pass

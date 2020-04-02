@@ -17,6 +17,13 @@ def Trapezoidal_Riemann_integral(function, num_of_partitions):
 def lebesgue_integral(function):
     pass
 
+def integration_by_part(function):
+    # LIPET
+    pass
+
+def integration_by_part_tabular_method(function):
+    pass
+
 def indefinite_integral(function):
     pass
 
@@ -40,6 +47,7 @@ def double_integral(function):
     pass
 
 def triple_integral(function):
+    pass
 
 def nth_integral(function, n):
     pass
