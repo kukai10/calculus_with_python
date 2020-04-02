@@ -1,0 +1,1 @@
+# newtons method in MTH3300 newtons_method HW file.
