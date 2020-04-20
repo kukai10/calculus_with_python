@@ -34,3 +34,12 @@ def fourier_series(equation):
     pass
 
 
+def series_solution(equation):
+    pass
+
+def determine_singular_or_ordinary_point(polynomial_coeff, equation, initial_point):
+    if find_limit(ploynomial_coeff(0)) == "analytic":
+        # meaning the polynomial coeffienct is not zero, no divide by zero case
+        return "ordinary"
+    else:
+        return "singular"
